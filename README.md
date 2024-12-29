@@ -72,6 +72,3 @@ pip install numpy torch tqdm jieba transformers
 - `res.txt`：存储最终预测结果。
 - `segmented_output.txt`：存储分词后的文本结果。
 
-## 联系方式
-
-如有问题或建议，请联系 [您的邮箱或其他联系方式]。
